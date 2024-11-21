@@ -333,7 +333,6 @@ function isPowerOfTwo(num) {
  */
 function getSine(num) {
   return Math.sin(num);
-  // throw new Error('Not implemented');
 }
 
 /**
@@ -378,7 +377,6 @@ function toExponential(number, fractionDigits) {
  */
 function toFixed(number, fractionDigits) {
   return number.toFixed(fractionDigits);
-  // throw new Error('Not implemented');
 }
 
 /**
@@ -395,7 +393,6 @@ function toFixed(number, fractionDigits) {
  */
 function toPrecision(number, precision) {
   return number.toPrecision(precision);
-  // throw new Error('Not implemented');
 }
 
 /**
